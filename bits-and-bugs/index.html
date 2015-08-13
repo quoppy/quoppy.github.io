@@ -1,1 +1,25 @@
 <!DOCTYPE html>
+<title>Bits and Bugs or: How I Became a Software Engineer</title>
+<style>
+@import url(http://fonts.googleapis.com/css?family=Arimo);
+
+body { 
+  font-family: 'Arimo', sans-serif; 
+}
+</style>
+<script src="https://gnab.github.io/remark/downloads/remark-latest.min.js"></script>
+<script>
+function ready(fn) {
+  if (document.readyState != 'loading'){
+    fn();
+  } else {
+    document.addEventListener('DOMContentLoaded', fn);
+  }
+}
+
+ready(function() {
+  var slideshow = remark.create({
+    sourceUrl: 'content.md'
+  });
+});
+</script>
