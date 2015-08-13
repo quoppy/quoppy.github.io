@@ -2,7 +2,7 @@ class: center, middle
 
 # Bits and Bugs or: How I Became a Software Engineer
 ---
-<insert images>
+    insert images
 ???
 What does Lucasfilm do?
 ---
