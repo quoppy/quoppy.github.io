@@ -3,3 +3,8 @@
 body {
   font-family: 'Arimo', sans-serif;
 }
+
+.black {
+  background-color: black;
+  color: white;
+}
