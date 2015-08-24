@@ -103,7 +103,7 @@ if __name__ == "__main__":
 I don't have a set work routine. Most of my time is spent looking at things like
 this.
 
-This is source code.
+This is a computer program.
 
 You can think of it as a set of instructions that the computer will follow.
 
@@ -119,7 +119,7 @@ on different parts at the same time.
 Companies like Google and Facebook have thousands of software engineers all
 around the world.
 
-We are slightly smaller, less than a hundred over 4 countries.
+Lucasfilm is slightly smaller, less than a hundred over 4 countries.
 
 In general, software enginners need logical thinking and problem-solving skills.
 An effective engineer can break a large problem down into smaller,
